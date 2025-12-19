@@ -1,0 +1,20 @@
+game_title = "Epic Adventure"
+game_difficulty = 10
+
+[graphics]
+resolution = "1920x1080"
+base_fps = 60
+target_fps = 60
+vsync_interval = 0
+
+[graphics.effects]
+shadows = true
+particles = 5
+
+[mechanics]
+base_health = 100
+health_penalty = 10
+player_health = 90
+base_damage = 20
+damage_bonus = 30
+weapon_damage = 50
